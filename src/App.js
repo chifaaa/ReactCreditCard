@@ -5,22 +5,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src='https://www.greendot.com/for-people/our-products/secured-credit-card/_jcr_content/root/responsivegrid/responsivegrid/layout_container_96613305/col3Tile3/content_card/image.coreimg.png/1567537901766.png' className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Sorryy !   =DD
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
     </div>
   );
 }
 
 export default App;
+
